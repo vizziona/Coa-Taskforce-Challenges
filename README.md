@@ -19,12 +19,12 @@ To run this project locally, follow these simple steps:
 
 bash
 Copy code
-git clone [<repository-url](https://github.com/vizziona/Coa-Taskforce-Challenges.git)>
+git clone https://github.com/vizziona/Coa-Taskforce-Challenges.git
 Navigate to the project directory:
 
 bash
 Copy code
-cd animal-gallery
+cd Coa-Taskforce-Challenges.git
 Open the index.html file in your preferred web browser.
 
 ### 🎨 Usage
