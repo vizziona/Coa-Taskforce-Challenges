@@ -30,7 +30,9 @@ Open the index.html file in your preferred web browser.
 ### 🎨 Usage
 Once the project is running in your web browser, you can enjoy the following functionalities:
 
-### Hover Effect: Hover over each animal image to reveal additional information about the animal, including its name and location.
-### Interactive Experience: The project demonstrates the use of CSS for styling and JavaScript for handling hover effects and dynamically displaying information, providing users with an engaging and interactive browsing experience.
+### Hover Effect
+Hover over each animal image to reveal additional information about the animal, including its name and location.
+### Interactive Experience
+The project demonstrates the use of CSS for styling and JavaScript for handling hover effects and dynamically displaying information, providing users with an engaging and interactive browsing experience.
 ### 📄 Conclusion
 Happy Hacking.
