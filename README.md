@@ -19,7 +19,7 @@ To run this project locally, follow these simple steps:
 
 bash
 Copy code
-git clone <repository-url>
+git clone [<repository-url](https://github.com/vizziona/Coa-Taskforce-Challenges.git)>
 Navigate to the project directory:
 
 bash
