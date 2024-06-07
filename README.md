@@ -29,7 +29,7 @@ bash
 
 Copy code
 
-cd Coa-Taskforce-Challenges.git
+cd Coa-Taskforce-Challenges
 
 Open the index.html file in your preferred web browser.
 
